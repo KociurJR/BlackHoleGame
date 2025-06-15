@@ -16,7 +16,7 @@ based on
 https://gamedev.stackexchange.com/questions/111799/movement-with-vector-math
 https://stackoverflow.com/questions/25234111/sfml-move-object-towards-coord 
 ---------------------
-game was designed and tested on macOS, all file paths are placed in order to be executable on this OS 
-all the items used in the project were accessed fully legally with no rights reserved 
+- game was designed and tested on macOS, all file paths are placed in order to be executable on this OS 
+- all the items used in the project were accessed fully legally with no rights reserved 
 
 
